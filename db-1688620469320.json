@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "checked": false,
+      "task": "Exercise"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "task": "Meditation"
+    }
+  ]
+}
